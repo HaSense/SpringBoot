@@ -1,0 +1,9 @@
+[ Maven ]
+
+1. 오라클 11g Express
+
+<dependency>
+			<groupId>com.oracle.database.jdbc</groupId>
+			<artifactId>ojdbc8</artifactId>
+			<version>19.8.0.0</version>
+</dependency>
